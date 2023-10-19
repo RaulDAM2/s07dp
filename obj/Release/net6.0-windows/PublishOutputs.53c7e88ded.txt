@@ -1,0 +1,5 @@
+C:\Users\Raul\Desktop\DAM 2\M07 - Desenvolupament d'interfícies\UF1 - Disseny i implementació de interfícies\s07dp\s07dp\bin\Release\net6.0-windows\publish\s07dp.exe
+C:\Users\Raul\Desktop\DAM 2\M07 - Desenvolupament d'interfícies\UF1 - Disseny i implementació de interfícies\s07dp\s07dp\bin\Release\net6.0-windows\publish\s07dp.dll
+C:\Users\Raul\Desktop\DAM 2\M07 - Desenvolupament d'interfícies\UF1 - Disseny i implementació de interfícies\s07dp\s07dp\bin\Release\net6.0-windows\publish\s07dp.deps.json
+C:\Users\Raul\Desktop\DAM 2\M07 - Desenvolupament d'interfícies\UF1 - Disseny i implementació de interfícies\s07dp\s07dp\bin\Release\net6.0-windows\publish\s07dp.runtimeconfig.json
+C:\Users\Raul\Desktop\DAM 2\M07 - Desenvolupament d'interfícies\UF1 - Disseny i implementació de interfícies\s07dp\s07dp\bin\Release\net6.0-windows\publish\s07dp.pdb

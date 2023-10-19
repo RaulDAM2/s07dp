@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TX1fJvKdNb9L+HY3cv15PJSvBrYx5FSzMjXnwp+fsZ4y5ZDONNbXuxVvBNpYlTGrQv//4SN0tTUaQUf2taXLeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Raul\\Desktop\\DAM 2\\M07 - Desenvolupament d'interfícies\\UF1 - Disseny i implementació de interfícies\\s07dp\\s07dp\\s07dp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raul\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.23\\microsoft.netcore.app.runtime.win-x64.6.0.23.nupkg.sha512",
+    "C:\\Users\\Raul\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.23\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.23.nupkg.sha512",
+    "C:\\Users\\Raul\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.23\\microsoft.aspnetcore.app.runtime.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
